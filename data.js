@@ -29,16 +29,4 @@ let songs = [
     artist: "artist 5",
     cover: "images/cover 5.png",
   },
-  {
-    name: "song 6",
-    path: "musics/Song 6.mp3",
-    artist: "artist 6",
-    cover: "images/cover 5.png",
-  },
-  {
-    name: "song 7",
-    path: "musics/Song 7.mp3",
-    artist: "artist 7",
-    cover: "images/cover 5.png",
-  },
 ];

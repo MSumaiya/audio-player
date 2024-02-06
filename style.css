@@ -53,6 +53,11 @@ body {
   box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.08);
   animation: rotate 20s linear infinite;
   animation-play-state: paused;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  -webkit-animation: rotate 20s linear infinite;
 }
 
 .disk.play {
@@ -92,6 +97,10 @@ body {
   background: #7fc8a9;
   overflow: hidden;
   cursor: pointer;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
 }
 
 .seek-bar::-webkit-slider-thumb {
@@ -129,6 +138,10 @@ body {
   background: #d5eebb;
   cursor: pointer;
   border: none;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
 }
 
 .play-btn span {
@@ -142,10 +155,10 @@ body {
   background: #5f7a61;
   transition: 0.5s;
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
-  -webkit-transition: 0.5s;
-  -moz-transition: 0.5s;
-  -ms-transition: 0.5s;
-  -o-transition: 0.5s;
+  -webkit-transition:;
+  -moz-transition:;
+  -ms-transition:;
+  -o-transition:;
   -webkit-border-radius: ;
   -moz-border-radius: ;
   -ms-border-radius: ;

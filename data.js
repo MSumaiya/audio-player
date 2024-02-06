@@ -2,13 +2,13 @@ let songs = [
   {
     name: "Bangla song 1",
     path: "musics/Song 1.mp3",
-    artist: "Fahmida Nobi",
+    artist: "Fahmida Nabi",
     cover: "images/cover 1.png",
   },
   {
     name: "Bangla song 2",
     path: "musics/Song 2.mp3",
-    artist: "Laki Akond",
+    artist: "Laki Akondo",
     cover: "images/cover 2.png",
   },
   {
